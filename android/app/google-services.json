@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "902520098501",
+    "firebase_url": "https://caffeeapp-b8412-default-rtdb.firebaseio.com",
+    "project_id": "caffeeapp-b8412",
+    "storage_bucket": "caffeeapp-b8412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902520098501:android:ea404106653f86bad8aaac",
+        "android_client_info": {
+          "package_name": "by.bsuir.cafetopia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLBSG8XzVsiO6tXiMo5NwITWFyXZDSxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902520098501:android:d4f63787475027e6d8aaac",
+        "android_client_info": {
+          "package_name": "by.bsuir.cafetopia_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLBSG8XzVsiO6tXiMo5NwITWFyXZDSxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
